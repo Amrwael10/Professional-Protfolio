@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Metro Project",
+    "desc": "Flutter app for Cairo Metro info/routes (DEPI).",
+    "repo": "https://github.com/Amrwael10/metro_project",
+    "image": "imges/metro.png",
+    "tags": ["Flutter", "Mobile"]
+  },
+  {
+    "name": "Expense Tracker",
+    "desc": "Track daily expenses with charts & categories.",
+    "repo": "https://github.com/Amrwael10/Expense-Tracker-",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=300&fit=crop&crop=center",
+    "tags": ["Flutter", "Finance"]
+  },
+  {
+    "name": "Weather App (Web)",
+    "desc": "Simple JS weather app: type a country and see weather.",
+    "repo": "https://github.com/Amrwael10/Amr-WebApp",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=400&h=300&fit=crop&crop=center",
+    "tags": ["JavaScript", "Web"]
+  },
+  {
+    "name": "Recipe Web Project",
+    "desc": "CSS-based recipe website layout (practice project).",
+    "repo": "https://github.com/Amrwael10/Recipe-web-project",
+    "image": "imges/Rectangle 2.png",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "name": "Quiz App (Flutter)",
+    "desc": "Mobile quiz application built with Flutter.",
+    "repo": "https://github.com/Amrwael10/Quiz-App-Flutter",
+    "image": "imges/quiz-logo.png",
+    "tags": ["Flutter", "Mobile"]
+  }
+]
